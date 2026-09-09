@@ -5,6 +5,6 @@ Skills & Concepts Demonstrated
 
 Data Structures: Creating and indexing 2D lists (Arrays).
 
-User Input & Validation: Handling strings and type casting (converting string input to integers).
-
 String Formatting: Using Python f-strings to display the grid cleanly in the console.
+
+Zero-Indexed Logic: Adjusting user input to match Python's zero-based indexing system (subtracting 1 from the input).
